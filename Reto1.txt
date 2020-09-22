@@ -1,0 +1,9 @@
+Se requiere desarrollar un conversor de monedas, que permita las siguientes operaciones:
+Dólares americanos a Pesos Colombianos
+Pesos Colombianos a Dólares americanos.
+
+- POO (Clase principal y 2 subclases).
+- NO usar System.out.println (logger).
+- El valor del dólar debe ser usado en el constructor de la clase principal.
+- Validar con Sonar.
+- (Opcional). Usar constante para el valor del dólar.
